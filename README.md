@@ -2,7 +2,7 @@
 致力于协助马来西亚pkuer通关 gsm 这个大难点：）
 主要会放上一些自己的手写课堂笔记，备考笔记（（主要用于速通
 
-1. 大一上 高等数学B（上）
+1.大一上 高等数学B（上）
 
 [高等数学B上期中_命题总结与题型思路.pdf](https://github.com/user-attachments/files/20839502/B._.pdf)
 
@@ -39,7 +39,7 @@
 
 [8页速通会计学.pdf](https://github.com/user-attachments/files/20839477/8.pdf)
 
-6. 大一下 概率统计
+6.大一下 概率统计
 
 [概率统计-期中_公式复习.pdf](https://github.com/user-attachments/files/20839484/-._.pdf)
 
