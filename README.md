@@ -4,9 +4,13 @@
 每个笔记都会注明主播对应科目的分数，（一旦觉得自己能够大于主播这个分数，则可忽略不看）
 
 1. 高数B（上）
+
 [高等数学B上期中_命题总结与题型思路.pdf](https://github.com/user-attachments/files/20839502/B._.pdf)
+
 [高等数学B上-期末_解题思路.pdf](https://github.com/user-attachments/files/20839503/B.-._.pdf)
+
 [高等数学B上-期末_命题总结.pdf](https://github.com/user-attachments/files/20839504/B.-._.pdf)
+
 [高等数学B上-期末_公式表.pdf](https://github.com/user-attachments/files/20839510/B.-._.pdf)
 
 
