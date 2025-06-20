@@ -5,10 +5,7 @@
 
 1. 大一上 高数B（上）74
 
-[高等数学B上期中_命题总结与题型思路.pdf](https://github.com/user-attachments/files/20839502/B._.pdf)\
-[高等数学B上-期末_解题思路.pdf](https://github.com/user-attachments/files/20839503/B.-._.pdf)\
-[高等数学B上-期末_命题总结.pdf](https://github.com/user-attachments/files/20839504/B.-._.pdf)\
-[高等数学B上-期末_公式表.pdf](https://github.com/user-attachments/files/20839510/B.-._.pdf)\
+[高等数学B上期中_命题总结与题型思路.pdf](https://github.com/user-attachments/files/20839502/B._.pdf)\n[高等数学B上-期末_解题思路.pdf](https://github.com/user-attachments/files/20839503/B.-._.pdf)\n[高等数学B上-期末_命题总结.pdf](https://github.com/user-attachments/files/20839504/B.-._.pdf)\n[高等数学B上-期末_公式表.pdf](https://github.com/user-attachments/files/20839510/B.-._.pdf)
 
 2.大一上 计算概论C
 
