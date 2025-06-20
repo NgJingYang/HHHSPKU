@@ -22,6 +22,7 @@
 [组织与管理_笔记.pdf](https://github.com/user-attachments/files/20839573/_.pdf)
 
 4.大一上 经济学原理
+
 [经济学原理-期中_笔记(微观)-1-34.pdf](https://github.com/user-attachments/files/20839804/-._.-1-34.pdf)
 
 [经济学原理-期中_笔记(微观)-35-75.pdf](https://github.com/user-attachments/files/20839873/-._.-35-75.pdf)
@@ -31,21 +32,23 @@
 [经济学原理-期末_笔记(宏观).pdf](https://github.com/user-attachments/files/20839677/-._.pdf)
 
 4.大一下 高等数学B （下）
+
 [期中公式板书.pdf](https://github.com/user-attachments/files/20839889/default.pdf)
-下 高等数学B(上）
 
-
-大一下 会计学 
+5.大一下 会计学 
 
 [8页速通会计学.pdf](https://github.com/user-attachments/files/20839477/8.pdf)
 
-5. 大一下 概率统计 75
+6. 大一下 概率统计
 
 [概率统计-期中_公式复习.pdf](https://github.com/user-attachments/files/20839484/-._.pdf)
 
 6.大一下 微观经济学
 
-犹太文明 P
+[微观经济学.pdf](https://github.com/user-attachments/files/20839967/default.pdf)
+
+
+其他 犹太文明 P
 
 [全球视野下的犹太文明_笔记.pdf](https://github.com/user-attachments/files/20839530/_.pdf)
 
