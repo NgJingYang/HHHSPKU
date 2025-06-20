@@ -3,11 +3,14 @@
 主要会放上一些自己的手写课堂笔记，备考笔记
 每个笔记都会注明主播对应科目的分数，（一旦觉得自己能够大于主播这个分数，则可忽略不看）
 
-1. 大一上 高数B（上
+1. 大一上 高等数学B（上）
 
 [高等数学B上期中_命题总结与题型思路.pdf](https://github.com/user-attachments/files/20839502/B._.pdf)
+
 [高等数学B上-期末_解题思路.pdf](https://github.com/user-attachments/files/20839503/B.-._.pdf)
+
 [高等数学B上-期末_命题总结.pdf](https://github.com/user-attachments/files/20839504/B.-._.pdf)
+
 [高等数学B上-期末_公式表.pdf](https://github.com/user-attachments/files/20839510/B.-._.pdf)
 
 2.大一上 计算概论C
@@ -20,12 +23,19 @@
 
 4.大一上 经济学原理
 [经济学原理-期中_笔记(微观)-1-34.pdf](https://github.com/user-attachments/files/20839804/-._.-1-34.pdf)
+
 [经济学原理-期中_笔记(微观)-35-75.pdf](https://github.com/user-attachments/files/20839873/-._.-35-75.pdf)
+
 [经济学原理-期末_笔记(微观).pdf](https://github.com/user-attachments/files/20839673/-._.pdf)
+
 [经济学原理-期末_笔记(宏观).pdf](https://github.com/user-attachments/files/20839677/-._.pdf)
 
+4.大一下 高等数学B （下）
+[期中公式板书.pdf](https://github.com/user-attachments/files/20839889/default.pdf)
+下 高等数学B(上）
 
-4.大一下 会计学 
+
+大一下 会计学 
 
 [8页速通会计学.pdf](https://github.com/user-attachments/files/20839477/8.pdf)
 
