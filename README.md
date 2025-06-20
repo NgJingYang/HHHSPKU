@@ -14,5 +14,10 @@
 [高等数学B上-期末_公式表.pdf](https://github.com/user-attachments/files/20839510/B.-._.pdf)
 
 
-3. 大一下 会计学 [8页速通会计学.pdf](https://github.com/user-attachments/files/20839477/8.pdf)
-4. 大一下 概率统计 [概率统计-期中_公式复习.pdf](https://github.com/user-attachments/files/20839484/-._.pdf)
+3. 大一下 会计学
+
+[8页速通会计学.pdf](https://github.com/user-attachments/files/20839477/8.pdf)
+
+5. 大一下 概率统计 
+
+[概率统计-期中_公式复习.pdf](https://github.com/user-attachments/files/20839484/-._.pdf)
