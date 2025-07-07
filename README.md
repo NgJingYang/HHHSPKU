@@ -49,7 +49,7 @@
 
 6.大一下 微观经济学
 
-【速】[微观经济学.pdf](https://github.com/user-attachments/files/20839967/default.pdf)
+【速】[微观经济学 题型总结.pdf](https://github.com/user-attachments/files/21093675/default.pdf)
 
 7.大一下 社会心理学
 
