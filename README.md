@@ -48,6 +48,12 @@
 
 [微观经济学.pdf](https://github.com/user-attachments/files/20839967/default.pdf)
 
+7.大一下 社会心理学
+
+[心理学实验集锦.pdf](https://github.com/user-attachments/files/21093597/default.pdf)
+
+
+
 
 其他 犹太文明 P
 [全球视野下的犹太文明_笔记.pdf](https://github.com/user-attachments/files/20839530/_.pdf)
