@@ -1,6 +1,11 @@
+## Internship in Malaysia
+具体细节整理于下表，可根据自身情况进行投递 
+* 注意！如果想要投递请确认该公司有开放申请summer intake(一般是在1，2个月前），**在linkedin或相应网站上投递更佳**
+* 太早投递可能会被扔进人才储备库！
+  
 ## Internship (Bank)
 
-| No. | Bank/Institution | Application Date | Last Year Only | Minimum Week | Minimum CGPA | 额外要求 | Website |
+| No. | Bank/Institution | Application Date | Last Year Only | Minimum Week | Minimum CGPA | 额外要求 | Official Website |
 |-----|------------------|------------------|----------------|--------------|--------------|----------|---------|
 | 1 | Khazanah National | | | 12 | 3.5 | Work Experience & 2 Referee | (https://career.khazanah.com.my/job/Kuala-Lumpur-Intern%2C-Investments-Malaysia/7346844/) |
 | 2 | Bank Negara | 3 month before | Yes | 12 | 3 | |(https://www.bnm.gov.my/careers/internship) |
