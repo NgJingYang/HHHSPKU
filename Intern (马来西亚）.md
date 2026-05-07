@@ -32,4 +32,8 @@
 | 3 | Socio-Economic Research Centre | | | | | |(https://www.acccimserc.com/join) |
 
 ## 学长姐实习面试经验
-【欢迎联系本人wx:fgh55fgh提供】
+### 面试问题
+
+### 企业文化
+
+【欢迎联系本人 jingyang051126@gmail.com 提供资料，感谢你的分享（可匿名）】
