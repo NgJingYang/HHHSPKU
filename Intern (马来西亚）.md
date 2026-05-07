@@ -1,5 +1,6 @@
 ## Internship in Malaysia
 具体细节整理于下表，可根据自身情况进行投递 
+* 记得注册linked in!
 * 注意！如果想要投递请确认该公司有开放申请summer intake(一般是在1，2个月前会出现在Linked in），**在linkedin上投递更佳**
 * 太早投递可能会被扔进人才储备库！(悲）
 * 内推远远优于海投
