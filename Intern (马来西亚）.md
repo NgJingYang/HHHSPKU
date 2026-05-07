@@ -2,6 +2,7 @@
 具体细节整理于下表，可根据自身情况进行投递 
 * 注意！如果想要投递请确认该公司有开放申请summer intake(一般是在1，2个月前会出现在Linked in），**在linkedin上投递更佳**
 * 太早投递可能会被扔进人才储备库！(悲）
+* 内推远远优于海投
 * 投完简历后要养成看Whatsapp 的好习惯（因为马来西亚HR一般会先通过Whatsapp 来跟你取得联系，然后再进行面试）
 
 ## Internship (Bank)
@@ -28,3 +29,6 @@
 | 1 | Khazanah Research Institute | | | | 3 | | (https://www.krinstitute.org/job/policy-research-intern) |
 | 2 | EMIR Research | | | | | | (https://www.emirresearch.com/careers/research-intern/) |
 | 3 | Socio-Economic Research Centre | | | | | |(https://www.acccimserc.com/join) |
+
+## 学长姐实习面试经验
+【欢迎联系本人wx:fgh55fgh提供】
