@@ -1,8 +1,9 @@
 ## Internship in Malaysia
 具体细节整理于下表，可根据自身情况进行投递 
-* 注意！如果想要投递请确认该公司有开放申请summer intake(一般是在1，2个月前），**在linkedin或相应网站上投递更佳**
-* 太早投递可能会被扔进人才储备库！
-  
+* 注意！如果想要投递请确认该公司有开放申请summer intake(一般是在1，2个月前会出现在Linked in），**在linkedin上投递更佳**
+* 太早投递可能会被扔进人才储备库！(悲）
+* 投完简历后要养成看Whatsapp 的好习惯（因为马来西亚HR一般会先通过Whatsapp 来跟你取得联系，然后再进行面试）
+
 ## Internship (Bank)
 
 | No. | Bank/Institution | Application Date | Last Year Only | Minimum Week | Minimum CGPA | 额外要求 | Official Website |
@@ -17,6 +18,8 @@
 | 8 | Alliance | | | 10 | | |(https://careers.alliancebank.com.my/go/Internship/690644/) |
 | 9 | Affin | 无资料 | | | | | |
 | 10 | UOB | | | 10 | | | (https://www.uobgroup.com/careers/early-careers/index.page) |
+| 11 | OCBC | | | | | |(https://www.ocbc.com.my/group/careers/students/internship.page?)|
+| 12 | HSBC | | | | | |(https://www.hsbc.com/careers/students-and-graduates/internships)|
 
 ## Internship (Research)
 
