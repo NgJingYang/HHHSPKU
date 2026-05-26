@@ -22,6 +22,8 @@
 | 10 | UOB | | | 10 | | | (https://www.uobgroup.com/careers/early-careers/index.page) |
 | 11 | OCBC | | | | | |(https://www.ocbc.com.my/group/careers/students/internship.page?)|
 | 12 | HSBC | | | | | |(https://www.hsbc.com/careers/students-and-graduates/internships)|
+|13|中国银行| | |8 | | |(	recruitment@my.bank-of-china.com)|
+|14|中国工商银行| | |8 | | |(mycareer@my.icbc.com.cn)|
 
 ## Internship (Research)
 
