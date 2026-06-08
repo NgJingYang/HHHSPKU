@@ -51,6 +51,8 @@
 4. How is your skill? (PPT/Excel) How will you conduct a PPT/Excel?
 5. What is Mutual Fund / Insurance / Sovereign Mutual Fund...(other financial institution)? Could you give me an example for that?
 
+也可以准备一些实时新闻
+
 ### 企业文化
 
 【欢迎到左上角Discussion处提供资料，感谢你的分享（可匿名）】
