@@ -34,7 +34,22 @@
 | 3 | Socio-Economic Research Centre | | | | | |(https://www.acccimserc.com/join) |
 
 ## 学长姐实习面试经验
+基本可分为:
+
+电话(Whatsapp) --> 一面(Tencent Meeting/Zoom)
+
 ### 面试问题
+#### 电话(Whatsapp)
+1. 确认实习日期
+2. 确认你的资料
+3. 确认你的交通
+
+#### 一面(Tencent Meeting/Zoom)
+1. Other questions that related to your resume.(Be prepare for everything you list in the resume, you need to say a story to them :)
+2. What is Bank? What does the Bank do?
+3. What did you know about the department? 
+4. How is your skill? (PPT/Excel) How will you conduct a PPT/Excel?
+5. What is Mutual Fund / Insurance / Sovereign Mutual Fund...(other financial institution)? Could you give me an example for that?
 
 ### 企业文化
 
