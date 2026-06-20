@@ -50,6 +50,9 @@
 3. What did you know about the department? 
 4. How is your skill? (PPT/Excel) How will you conduct a PPT/Excel?
 5. What is Mutual Fund / Insurance / Sovereign Mutual Fund...(other financial institution)? Could you give me an example for that?
+6. Tell me about your recent leadership experience?
+7. How do you deal with pressure?
+8. If your teammate having different opinion,what will you do?
 
 也可以准备一些实时新闻
 
